@@ -3,7 +3,24 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="action_settings">About</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
 
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Film Yang Tayang</string>
+    <string name="slide_2_desc">Menunjukkan Film-Film Yang Saat Ini Tayang Di Bioskop-Bioskop!</string>
+
+    <string name="slide_3_title">Film Ter-Favorit</string>
+    <string name="slide_3_desc">Menampilkan Film-Film Ter-Favorit Menurut Rating Penonton!</string>
+
+    <string name="slide_4_title">Simpan Info Film</string>
+    <string name="slide_4_desc">Menyimpan Info Film Yang Kalian Sukai, Seperti Judul &amp; Sinopsis!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
